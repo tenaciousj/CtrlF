@@ -1,0 +1,6 @@
+framework module Pods_CtrlFUITests {
+  umbrella header "Pods-CtrlFUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_CtrlF {
+  umbrella header "Pods-CtrlF-umbrella.h"
+
+  export *
+  module * { export * }
+}
